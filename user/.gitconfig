@@ -1,0 +1,5 @@
+[user]
+	name = George Pandzik
+	email = gepandz@gmail.com
+[credential]
+	helper = cache --timeout=3600
